@@ -5,13 +5,7 @@ format: html
 editor: visual
 ---
 
-## Introduction
+## Branch Section
 
-This is my example Quarto document.
-
-## Running Code
-
-```{r}
-1 + 1
-```
+This text was added in testbranch.
 
