@@ -1,0 +1,17 @@
+---
+title: "Example Document"
+author: "Abhigna Tippala"
+format: html
+editor: visual
+---
+
+## Introduction
+
+This is my example Quarto document.
+
+## Running Code
+
+```{r}
+1 + 1
+```
+
